@@ -17,6 +17,7 @@
 }
 
 .toggler {
+    display: none;
     z-index: 34;
 }
 
@@ -89,6 +90,10 @@ ul li a:hover {
     }
 
     ul li a {
+        display: block;
+    }
+
+    .toggler {
         display: block;
     }
 
