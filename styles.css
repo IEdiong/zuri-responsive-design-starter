@@ -148,7 +148,6 @@ h4 {
     color: var(--primary-bg);
 }
 
-/* ! TODO: work on the hamburger menu */
 .nav-toggle {
     cursor: pointer;
     border: 0;
@@ -357,10 +356,8 @@ div.box h5 {
     text-transform: uppercase;
 }
 
-
-/* ! TODO: work on the SNAPSHOT TEAM section */
-
 .gallery-section {
+
     background: #fff;
     padding: 5em 0;
 }
